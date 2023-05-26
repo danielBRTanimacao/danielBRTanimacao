@@ -21,6 +21,7 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+   E outros...
 </div>
 
 ### Linguagens que uso 💻
@@ -33,4 +34,5 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
-### Sobre mim
+### Um pouco sobre mim
+Meu nome e Daniel estou nesse momento cursando a faculdade de Analise Desenvolvimento de Sistemas, programar e um dos meus hobbies que pretendo transformar em trabalho tenho outros como desenvolver jogos, desenhar é produzir vídeos...
