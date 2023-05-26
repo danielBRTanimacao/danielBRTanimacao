@@ -4,10 +4,9 @@
 [![Isntagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danieltenorio35/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/danieltenorio2046/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-tenório-6471b0244/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/daniel.tenorio.92167)
 
 ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danielBRTanimacao&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielBRTanimacao)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que uso 🧑🏻‍💻
 
@@ -23,7 +22,6 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </div>
 
 ### Linguagens que uso 💻
