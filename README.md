@@ -34,5 +34,5 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
-### Um pouco sobre mim
+### Um pouco sobre mim ✌️
 Meu nome e Daniel estou nesse momento cursando a faculdade de Analise Desenvolvimento de Sistemas, programar e um dos meus hobbies que pretendo transformar em trabalho tenho outros como desenvolver jogos, desenhar é produzir vídeos...
