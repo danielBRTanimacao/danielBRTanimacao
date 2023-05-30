@@ -22,7 +22,7 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
    E outros...
-</div>
+</div><br/>
 
 ### Linguagens que uso 💻
 
