@@ -23,13 +23,7 @@
 
 ### Linguagens que uso 💻
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,html,css&theme=light)](https://skillicons.dev)
 
 ### Um pouco sobre mim ✌️
 Meu nome e Daniel estou nesse momento cursando a faculdade de Analise Desenvolvimento de Sistemas, programar e um dos meus hobbies que pretendo transformar em trabalho tenho outros como desenvolver jogos, desenhar é produzir vídeos...
@@ -39,4 +33,4 @@ Meu nome e Daniel estou nesse momento cursando a faculdade de Analise Desenvolvi
 - Cursando Analise Desenvolvimento de Sistemas 💻
 - Edição de vídeos 🎧
 - Desenho ✍️
-- Youtube 
+- Youtube 🔴
