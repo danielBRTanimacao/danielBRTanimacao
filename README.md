@@ -8,6 +8,8 @@
 
 ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danielBRTanimacao&show_icons=true&theme=dracula)
 
+### Linguagens que mais uso
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielBRTanimacao&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que uso 🧑🏻‍💻
