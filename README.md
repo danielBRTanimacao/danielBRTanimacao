@@ -12,6 +12,8 @@
 
 ### Tecnologias que uso 🧑🏻‍💻
 
+[![My Skills](https://skillicons.dev/icons?i=blender,discord,godot,linkedin,pr,ps&theme=light)](https://skillicons.dev)
+
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
@@ -36,3 +38,10 @@
 
 ### Um pouco sobre mim ✌️
 Meu nome e Daniel estou nesse momento cursando a faculdade de Analise Desenvolvimento de Sistemas, programar e um dos meus hobbies que pretendo transformar em trabalho tenho outros como desenvolver jogos, desenhar é produzir vídeos...
+
+### Aprendendo...
+- Python curso Mairo Vergara 🧑‍💻
+- Cursando Analise Desenvolvimento de Sistemas 💻
+- Edição de vídeos 🎧
+- Desenho ✍️
+- Youtube 
