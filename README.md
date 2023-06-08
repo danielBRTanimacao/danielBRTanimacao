@@ -6,12 +6,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-tenório-6471b0244/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/daniel.tenorio.92167)
 
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danielBRTanimacao&show_icons=true&theme=dracula)
-
-### Linguagens que mais uso
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielBRTanimacao&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Tecnologias que uso 🧑🏻‍💻
 
 [![My Skills](https://skillicons.dev/icons?i=blender,discord,godot,linkedin,pr,ps,vscode,github,git&theme=light)](https://skillicons.dev) tem mais.. 👇
