@@ -20,6 +20,6 @@ Meu nome e Daniel estou nesse momento cursando Analise Desenvolvimento de Sistem
 ### Aprendendo...
 - Python curso Mairo Vergara 🧑‍💻
 - Cursando Analise Desenvolvimento de Sistemas 💻
-- Edição de vídeos 🎧
 - Desenho ✍️
 - Youtube 🔴
+- Ingles curso Duolingo, Mairo vergara
