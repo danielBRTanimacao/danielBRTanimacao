@@ -18,7 +18,7 @@ Meu nome e Daniel estou nesse momento cursando Analise Desenvolvimento de Sistem
 
 
 ### Aprendendo...
-- Python curso Mairo Vergara 🧑‍💻
+- Python curso Otavio Miranda 🧑‍💻
 - Cursando Analise Desenvolvimento de Sistemas 💻
 - Desenho ✍️
 - Youtube 🔴
