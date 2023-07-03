@@ -21,4 +21,4 @@ Meu nome e Daniel estou nesse momento cursando Analise Desenvolvimento de Sistem
 - Cursando Analise Desenvolvimento de Sistemas 💻
 - Desenho ✍️
 - Youtube 🔴
-- Ingles curso Duolingo, Mairo vergara 🔴
+- Inglês curso Duolingo, Mairo vergara 🔴
