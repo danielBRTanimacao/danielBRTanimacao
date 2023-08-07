@@ -18,8 +18,7 @@ Meu nome e Daniel estou nesse momento cursando Analise Desenvolvimento de Sistem
 
 ### Aprendendo...
 - Python curso Otavio Miranda 🧑‍💻
-- front end Udemy, Guanabara 🧑‍💻
+- front end Udemy | Guanabara 🧑‍💻
 - Cursando Analise Desenvolvimento de Sistemas 💻
 - Desenho ✍️
-- Youtube 🔴
 - Inglês 🔴
