@@ -14,7 +14,7 @@ Meu nome e Daniel estou nesse momento cursando Analise Desenvolvimento de Sistem
 
 ### Linguagens que uso 💻
 
-[![My Skills](https://skillicons.dev/icons?i=godot,py,html,css&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot,py,sqlite,html,css&theme=light)](https://skillicons.dev)
 
 ### Aprendendo...
 - Python curso Otavio Miranda 🧑‍💻
