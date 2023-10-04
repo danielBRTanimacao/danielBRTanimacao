@@ -10,15 +10,15 @@ Meu nome e Daniel estou nesse momento cursando Analise Desenvolvimento de Sistem
 
 ### Tecnologias que uso 🧑🏻‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=blender,discord,godot,pr,ps,vscode,github,git&theme=light)](https://skillicons.dev) E outros...
+[![My Skills](https://skillicons.dev/icons?i=discord,godot,pr,ps,vscode,github,git,django&theme=light)](https://skillicons.dev) E outros...
 
 ### Linguagens que uso 💻
 
-[![My Skills](https://skillicons.dev/icons?i=godot,py,html,css&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot,py,html,css,js&theme=light)](https://skillicons.dev)
 
 ### Aprendendo...
 - Python curso Otavio Miranda 🧑‍💻
-- front end Guanabara curso udemy 🧑‍💻
+- front end Guanabara javascript curso udemy 🧑‍💻
 - Cursando Análise Desenvolvimento de Sistemas 💻
 - Testes com django framework 💻
 - Desenho ✍️
