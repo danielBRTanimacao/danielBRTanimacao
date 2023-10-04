@@ -17,9 +17,10 @@ Meu nome e Daniel estou nesse momento cursando Analise Desenvolvimento de Sistem
 [![My Skills](https://skillicons.dev/icons?i=godot,py,html,css,js&theme=light)](https://skillicons.dev)
 
 ### Aprendendo...
-- Python curso Otavio Miranda 🧑‍💻
-- front end Guanabara javascript curso udemy 🧑‍💻
 - Cursando Análise Desenvolvimento de Sistemas 💻
+- Python curso Otavio Miranda 🧑‍💻
+- front end javascript Guanabara curso udemy 🧑‍💻
 - Testes com django framework 💻
+- Desenvolvendo jogos godot engine 🧑‍💻
 - Desenho ✍️
 - Inglês 🔴
