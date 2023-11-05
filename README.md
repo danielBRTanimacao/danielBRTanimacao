@@ -14,7 +14,7 @@ Meu nome e Daniel estou nesse momento cursando Analise Desenvolvimento de Sistem
 
 ### Linguagens que uso 💻
 
-[![My Skills](https://skillicons.dev/icons?i=godot,py,django,html,css,js&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot,py,django,html,css,bootstrap,js&theme=light)](https://skillicons.dev)
 
 ### Aprendendo...
 - Cursando Análise Desenvolvimento de Sistemas 💻
