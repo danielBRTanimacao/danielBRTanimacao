@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-tenório-6471b0244/)
 
 <h2 align="left">Um pouco sobre mim ✌️</h2>
-Meu nome e Daniel estou nesse momento cursando Analise Desenvolvimento de Sistemas, programar e um dos meus hobbies que pretendo transformar em trabalho tenho outros como desenvolver jogos, desenhar é produzir vídeos...
+Meu nome e Daniel estou nesse momento estou cursando Analise Desenvolvimento de Sistemas, programar e um dos meus hobbies que pretendo transformar em trabalho tenho outros como desenhar, produzir vídeos é outros...
 
 ### Tecnologias que uso 🧑🏻‍💻
 
@@ -14,13 +14,11 @@ Meu nome e Daniel estou nesse momento cursando Analise Desenvolvimento de Sistem
 
 ### Linguagens que uso 💻
 
-[![My Skills](https://skillicons.dev/icons?i=godot,py,django,html,css,bootstrap,js&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot,py,django,html,css,bootstrap,js,react&theme=light)](https://skillicons.dev)
 
 ### Aprendendo...
 - Cursando Análise Desenvolvimento de Sistemas 💻
 - Python curso Otavio Miranda 🧑‍💻
 - front end curso udemy 🧑‍💻
-- Testes com django framework 💻
-- Desenvolvendo jogos godot engine 🧑‍💻
 - Desenho ✍️
 - Inglês 🔴
