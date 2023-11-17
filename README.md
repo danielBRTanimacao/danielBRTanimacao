@@ -6,15 +6,15 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-tenório-6471b0244/)
 
 <h2 align="left">Um pouco sobre mim ✌️</h2>
-Meu nome e Daniel estou nesse momento estou cursando Analise Desenvolvimento de Sistemas, programar e um dos meus hobbies que pretendo transformar em trabalho tenho outros como desenhar, produzir vídeos é outros...
+Meu nome e Daniel estou nesse momento estou cursando Analise Desenvolvimento de Sistemas, programar e um dos meus hobbies que pretendo transformar em trabalho, tenho outros como desenhar, produzir vídeos...
 
 ### Tecnologias que uso 🧑🏻‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=discord,godot,pr,ps,vscode,github,git&theme=light)](https://skillicons.dev) E outros...
+[![My Skills](https://skillicons.dev/icons?i=discord,pr,ps,vscode,github,git&theme=light)](https://skillicons.dev) E outros...
 
 ### Linguagens que uso 💻
 
-[![My Skills](https://skillicons.dev/icons?i=godot,py,django,html,css,bootstrap,js,react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,py,django,html,css,bootstrap,js,react&theme=light)](https://skillicons.dev)
 
 ### Aprendendo...
 - Cursando Análise Desenvolvimento de Sistemas 💻
