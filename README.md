@@ -10,11 +10,11 @@ Meu nome é Daniel, estou nesse momento cursando Analise Desenvolvimento de Sist
 
 ### Tecnologias que uso 🧑🏻‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=discord,pr,ps,figma,vscode,github,git,vite&theme=light)](https://skillicons.dev) E outros...
+[![My Skills](https://skillicons.dev/icons?i=discord,ps,figma,vscode,github,git,vite&theme=light)](https://skillicons.dev) E outros...
 
 ### Linguagens que uso 💻
 
-[![My Skills](https://skillicons.dev/icons?i=docker,mysql,py,django,html,css,sass,bootstrap,js,react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,mysql,py,django,html,css,bootstrap,js,ts,react&theme=light)](https://skillicons.dev)
 
 ### Aprendendo...
 - Cursando Análise Desenvolvimento de Sistemas 💻
