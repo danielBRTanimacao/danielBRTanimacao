@@ -14,11 +14,11 @@ Meu nome é Daniel, estou nesse momento cursando Analise Desenvolvimento de Sist
 
 ### Linguagens que uso 💻
 
-[![My Skills](https://skillicons.dev/icons?i=docker,mysql,py,django,html,css,bootstrap,js,ts,react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,mysql,py,django,html,css,bootstrap,js,react&theme=light)](https://skillicons.dev)
 
 ### Aprendendo...
 - Cursando Análise Desenvolvimento de Sistemas 💻
 - Python curso Otavio Miranda 🧑‍💻
-- ReactJs typescript Front end curso youtube udemy 🧑‍💻
+- ReactJs Front end curso youtube udemy 🧑‍💻
 - Desenho ✍️
 - Inglês 🔴
