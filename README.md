@@ -20,5 +20,6 @@ Meu nome é Daniel, estou nesse momento cursando Analise Desenvolvimento de Sist
 - Cursando Análise Desenvolvimento de Sistemas 💻
 - Python curso Otavio Miranda 🧑‍💻
 - ReactJs Front end curso youtube udemy 🧑‍💻
+- Java curso youtube escola ☕
 - Desenho ✍️
 - Inglês 🔴
