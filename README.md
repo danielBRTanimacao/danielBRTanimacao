@@ -21,6 +21,6 @@ Meu nome é Daniel, estou nesse momento cursando Analise Desenvolvimento de Sist
 - Python curso Otavio Miranda 🧑‍💻
 - ReactJs Front end curso youtube udemy 🧑‍💻
 - Java curso youtube escola ☕
-- Testes Typescript e Sass curso youtube ▶️ 
+- Fazendo testes Typescript, Sass e Php  ▶️ 
 - Desenho ✍️
 - Inglês 🔴
