@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-tenório-6471b0244/)
 
 <h2 align="left">Um pouco sobre mim ✌️</h2>
-Meu nome é Daniel, estou nesse momento cursando Analise Desenvolvimento de Sistemas, programar não e mais um dos meus hobbies agora e algo que pretendo transformar em trabalho, mas tenho hobbies sendo eles desenhar, tocar um instrumento e produzir vídeos...
+Meu nome é Daniel e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Programar não é mais apenas um hobby para mim; agora é algo que pretendo transformar em trabalho. Além disso, tenho outros hobbies, como desenhar, tocar um instrumento e produzir vídeos.
 
 ### Tecnologias que uso 🧑🏻‍💻
 
