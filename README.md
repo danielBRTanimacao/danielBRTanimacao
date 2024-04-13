@@ -10,7 +10,7 @@ Meu nome é Daniel, estou nesse momento cursando Analise Desenvolvimento de Sist
 
 ### Tecnologias que uso 🧑🏻‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=discord,ps,figma,vscode,github,git,vite&theme=light)](https://skillicons.dev) E outros...
+[![My Skills](https://skillicons.dev/icons?i=discord,ps,figma,vscode,github,git,vite&theme=light)](https://skillicons.dev)
 
 ### Linguagens que uso 💻
 
@@ -19,7 +19,5 @@ Meu nome é Daniel, estou nesse momento cursando Analise Desenvolvimento de Sist
 ### Aprendendo...
 - Cursando Análise Desenvolvimento de Sistemas 💻
 - Python curso Otavio Miranda 🧑‍💻
-- ReactJs Front end curso youtube udemy 🧑‍💻
-- Java basico curso youtube ☕
 - Desenho ✍️
 - Inglês 🔴
