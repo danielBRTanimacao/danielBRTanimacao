@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-tenório-6471b0244/)
 
 <h2 align="left">Um pouco sobre mim ✌️</h2>
-Meu nome é Daniel e atualmente estou cursando Análise e Desenvolvimento de Sistemas...
+Meu nome é Daniel e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Possuo dois anos de experiência desenvolvendo e criando novos softwares. Ainda estou no início da carreira e tive poucas experiências com equipes, porém sou capaz de realizar tarefas básicas como CRUD, consumo e criação de APIs alem de utilizar banco de dados...
 
 ### Tecnologias que uso 🧑🏻‍💻
 
