@@ -13,12 +13,11 @@ Meu nome é Daniel e atualmente estou cursando Análise e Desenvolvimento de Sis
 
 ### Linguagens que uso 💻
 
-[![My Skills](https://skillicons.dev/icons?i=docker,mysql,py,django,html,css,bootstrap,js,ts,react&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,mysql,py,django,html,css,bootstrap,js,react&theme=dark)](https://skillicons.dev)
 
 ### Aprendendo...
 - Cursando Análise Desenvolvimento de Sistemas 💻
 - Python, Django curso Otavio Miranda 🧑‍💻
 - Php Curso em video 🖖
-- Typescript CFB cursos 🖖
 - Desenho ✍️
 - Inglês 🔴
