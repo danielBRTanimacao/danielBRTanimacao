@@ -13,7 +13,7 @@ Meu nome é Daniel e atualmente estou cursando Análise e Desenvolvimento de Sis
 
 ### Linguagens que uso 💻
 
-[![My Skills](https://skillicons.dev/icons?i=docker,mysql,py,django,html,css,bootstrap,js,react&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,mysql,py,django,html,css,bootstrap,js,ts,react&theme=dark)](https://skillicons.dev)
 
 ### Aprendendo...
 - Cursando Análise Desenvolvimento de Sistemas 💻
