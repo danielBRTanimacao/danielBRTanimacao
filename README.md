@@ -18,6 +18,5 @@ Meu nome é Daniel e atualmente estou cursando Análise e Desenvolvimento de Sis
 ### Aprendendo...
 - Cursando Análise Desenvolvimento de Sistemas 💻
 - Python, Django curso Otavio Miranda 🧑‍💻
-- Java ☕ e Php 🐘
-- Desenho ✍️
+- Violão 🎸
 - Inglês 🔴
