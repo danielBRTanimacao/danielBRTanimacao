@@ -15,8 +15,16 @@ Meu nome é Daniel e atualmente estou cursando Análise e Desenvolvimento de Sis
 
 [![My Skills](https://skillicons.dev/icons?i=docker,mysql,py,django,html,css,bootstrap,js,ts,react&theme=dark)](https://skillicons.dev)
 
+### Status do GitHub
+<div>
+<a href="https://github.com/danielBRTanimacao">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielBRTanimacao&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=danielBRTanimacao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ### Aprendendo...
 - Cursando Análise Desenvolvimento de Sistemas 💻
 - Python, Django curso Otavio Miranda 🧑‍💻
+- Java + Spring youtube, doc e muita pratica 🧑‍💻
 - Violão 🎸
 - Inglês 🔴
