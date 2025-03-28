@@ -9,11 +9,11 @@ Meu nome é Daniel e atualmente estou cursando Análise e Desenvolvimento de Sis
 
 ### Tecnologias que uso 🧑🏻‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=discord,ps,figma,vscode,github,git,vite,postman&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,ps,figma,vscode,github,git,vite,postman,docker,aws,linux&theme=dark)](https://skillicons.dev)
 
 ### Linguagens que uso 💻
 
-[![My Skills](https://skillicons.dev/icons?i=docker,mysql,py,django,html,css,bootstrap,js,ts,react&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,java,spring,py,django,html,css,bootstrap,js,ts,react&theme=dark)](https://skillicons.dev)
 
 ### Status do GitHub
 <div>
