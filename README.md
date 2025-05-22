@@ -9,11 +9,11 @@ Meu nome é Daniel e atualmente estou cursando Análise e Desenvolvimento de Sis
 
 ### Tecnologias que uso 🧑🏻‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=discord,ps,figma,vscode,github,git,vite,postman,docker,aws,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,idea,vscode,github,git,vite,postman,docker,aws,linux&theme=dark)](https://skillicons.dev)
 
 ### Linguagens que uso 💻
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,java,spring,py,django,html,css,bootstrap,js,ts,react&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,java,spring,py,django,tailwind,bootstrap,js,ts,react,angular&theme=dark)](https://skillicons.dev)
 
 ### Status do GitHub
 <div>
@@ -24,7 +24,5 @@ Meu nome é Daniel e atualmente estou cursando Análise e Desenvolvimento de Sis
 
 ### Aprendendo...
 - Cursando Análise Desenvolvimento de Sistemas 💻
-- Python, Django curso Otavio Miranda 🧑‍💻
-- Java + Spring youtube, doc e muita pratica 🧑‍💻
-- Violão 🎸
-- Inglês 🔴
+- Java + Spring DIO, doc e muita pratica 🧑‍💻
+- Angular + Tailwind Youtube 💻
