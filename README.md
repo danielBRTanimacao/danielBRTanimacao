@@ -1,21 +1,58 @@
-<h1 align="left">Hi! My name is Daniel Tenório ✌️🇧🇷</h1>
+<div align="center">
+  <h1>Hi there! I'm Daniel Tenório ✌️🇧🇷</h1>
+  <h3>Fullstack Developer</h3>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/daniel-tenorio-4a7b052a7/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.youtube.com/@danielbatata1817/videos" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    </a>
+    <a href="https://www.instagram.com/danieltenorio35/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+  </p>
+</div>
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@danielbatata1817/videos)
-[![Isntagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danieltenorio35/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-tenório-6471b0244/)
+## 💫 About Me
 
-<h2 align="left">A little about me 💫</h2>
-My name is Daniel, and I have recently completed my degree in Systems Analysis and Development. I have also started a postgraduate course in Fullstack Development. I have over three years of experience developing and creating new software. Throughout my career, I’ve gained a variety of experiences and have made several contributions to different teams. I am capable of handling basic tasks such as CRUD operations, designing architecture, Dockerization, consuming and creating APIs, as well as working with databases.
+I am a Software Developer with over **3 years of experience** engineering resilient web applications. Having graduated in Systems Analysis and Development, I am currently specializing further through a Postgraduate degree in **Fullstack Development**.
 
-### Technologies I use 🧑🏻‍💻
+I thrive on structuring clean architectures, solving tricky backend performance bottlenecks, and turning complex business rules into fast, maintainable code. 
 
-[![My Skills](https://skillicons.dev/icons?i=figma,idea,vscode,github,git,vite,postman,docker,aws,linux&theme=dark)](https://skillicons.dev)
+* ⚡ **Core Stack:** Deep focus on the **Java (Spring Boot)** and **Python (Django)** ecosystems.
+* 🏗️ **Engineering Skills:** REST API design, Microservices orchestration, Docker containerization, Cloud infrastructure (GCP/AWS), and automated CI/CD pipelines.
+* 🤝 **Work Philosophy:** Big advocate for Clean Code, agile rituals (Scrum/Kanban), and collaborative problem-solving.
 
-### Languages ​​I use 💻
+## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,java,spring,py,django,tailwind,bootstrap,js,ts,react,angular&theme=dark)](https://skillicons.dev)
+### Backend & Databases
+[![Backend Stack](https://skillicons.dev/icons?i=java,spring,py,django,mysql,postgres&theme=dark)](https://skillicons.dev)
 
-### Learning...
-- Cursing postgraduate in FullStack Development 💻
-- Java + Spring 🧑‍💻
-- Angular + Tailwind 💻
+### Frontend
+[![Frontend Stack](https://skillicons.dev/icons?i=js,ts,react,angular,tailwind,bootstrap,html,css&theme=dark)](https://skillicons.dev)
+
+### Cloud, DevOps & Tools
+[![DevOps Stack](https://skillicons.dev/icons?i=docker,aws,gcp,linux,git,github,vscode,postman,figma&theme=dark)](https://skillicons.dev)
+
+## 🚀 Currently Working & Learning
+
+- 🎓 **Pursuing** a Postgraduate degree in Fullstack Development.
+- 💻 Deepening advanced workflows in **Java + Spring Cloud** for scalable microservices.
+- 🎨 Crafting modern, reactive interfaces with **Angular + TailwindCSS**.
+- ⚙️ Exploring asynchronous communication via WebSockets and message brokers.
+
+## 🏆 Featured Projects
+
+| Project | Stack | Overview |
+| :--- | :--- | :--- |
+| **[PotatoPix](#)** | `Java` `Spring` `GCP` `WebSockets` | Live donation platform featuring high-speed PIX processing, automated payments, and Stripe API integration. |
+| **[P.M.O.C Backend](#)** | `Java` `Spring` `Docker` `CI/CD` | Advanced climate & refrigeration management backend built with automated delivery pipelines. |
+| **[CollabHubBr](#)** | `Fullstack` `Kanban` `REST` | Collaborative project management platform complete with squad milestones, custom roadmaps, and production dashboards. |
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielBRTanimacao&theme=tokyonight&hide_border=true" alt="Daniel's GitHub Streak" />
+</div>
